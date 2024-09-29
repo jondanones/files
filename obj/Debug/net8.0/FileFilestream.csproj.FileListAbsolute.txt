@@ -1,0 +1,14 @@
+C:\Users\jowjowpcpc\source\repos\FileFilestream\bin\Debug\net8.0\FileFilestream.exe
+C:\Users\jowjowpcpc\source\repos\FileFilestream\bin\Debug\net8.0\FileFilestream.deps.json
+C:\Users\jowjowpcpc\source\repos\FileFilestream\bin\Debug\net8.0\FileFilestream.runtimeconfig.json
+C:\Users\jowjowpcpc\source\repos\FileFilestream\bin\Debug\net8.0\FileFilestream.dll
+C:\Users\jowjowpcpc\source\repos\FileFilestream\bin\Debug\net8.0\FileFilestream.pdb
+C:\Users\jowjowpcpc\source\repos\FileFilestream\obj\Debug\net8.0\FileFilestream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jowjowpcpc\source\repos\FileFilestream\obj\Debug\net8.0\FileFilestream.AssemblyInfoInputs.cache
+C:\Users\jowjowpcpc\source\repos\FileFilestream\obj\Debug\net8.0\FileFilestream.AssemblyInfo.cs
+C:\Users\jowjowpcpc\source\repos\FileFilestream\obj\Debug\net8.0\FileFilestream.csproj.CoreCompileInputs.cache
+C:\Users\jowjowpcpc\source\repos\FileFilestream\obj\Debug\net8.0\FileFilestream.dll
+C:\Users\jowjowpcpc\source\repos\FileFilestream\obj\Debug\net8.0\refint\FileFilestream.dll
+C:\Users\jowjowpcpc\source\repos\FileFilestream\obj\Debug\net8.0\FileFilestream.pdb
+C:\Users\jowjowpcpc\source\repos\FileFilestream\obj\Debug\net8.0\FileFilestream.genruntimeconfig.cache
+C:\Users\jowjowpcpc\source\repos\FileFilestream\obj\Debug\net8.0\ref\FileFilestream.dll
